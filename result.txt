@@ -12,7 +12,7 @@
 鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
 广州综合,http://www.namewee.xyz/gudou.php?id=gzhounewsHD
 广州新闻,http://www.namewee.xyz/gudou.php?id=gzhouzongheHD
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
+广州竞赛,http://www.namewee.xyz/gudou.php?id=gzfilmsgaoqing
 广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 佛山综合,http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
 佛山公共,http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
@@ -54,7 +54,7 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 东方卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/2300.m3u8
 东南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/1300.m3u8
 甘肃卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
-广西卫视,https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
+广西卫视,http://222.84.98.48:4200/udp/239.81.0.107:4056
 贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8
 海南卫视,http://111.75.151.236:50085/newlive/live/hls/42/live.m3u8
 河北卫视,http://110.240.239.100:8888/rtp/239.253.92.154:6011
