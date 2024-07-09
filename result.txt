@@ -20,7 +20,7 @@
 佛山影视,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
 顺德综合,http://www.namewee.xyz/gudou.php?id=shundeHD_4500
 珠海,http://113.86.204.95:9999/udp/239.77.0.155:5146
-深圳卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
+深圳卫视,http://219.147.3.106:4455/newlive/live/hls/25/live.m3u8
 
 央视频道,#genre#
 CCTV-1,http://14.117.233.245:9000/udp/239.77.0.188:5146
@@ -71,7 +71,7 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 陕西卫视,http://218.13.170.98:9901/tsfile/live/0136_1.m3u8
 四川卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
-深圳卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
+深圳卫视,http://219.147.3.106:4455/newlive/live/hls/25/live.m3u8
 三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 天津卫视,http://218.13.170.98:9901/tsfile/live/1008_1.m3u8
 西藏卫视,http://111.75.151.236:50085/newlive/live/hls/36/live.m3u8
