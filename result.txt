@@ -7,13 +7,13 @@
 广东体育,http://113.100.72.95:8899/udp/239.77.0.112:5146
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东新闻,http://113.101.119.52:808/hls/106/index.m3u8
-广东卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=59fd71bc9ab8ccb098e20dba7502351a73b4a120648316b836686754ebd7dbd2_1720509211_604800&fromCDN=ws
+广东卫视,http://219.147.3.106:4455/newlive/live/hls/26/live.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
 鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
 广州综合,http://www.namewee.xyz/gudou.php?id=gzhounewsHD
 广州新闻,http://www.namewee.xyz/gudou.php?id=gzhouzongheHD
-广州竞赛,http://www.namewee.xyz/gudou.php?id=gzfilmsgaoqing
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=278bbb74b913655465c0308bee86fa92&txTime=190965e0140
 广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 佛山综合,http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
 佛山公共,http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
@@ -54,7 +54,7 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 重庆卫视,http://125.210.152.19:9123/live/hzgq-cqwsgq-h264.m3u8
 东方卫视,http://219.147.3.106:4455/newlive/live/hls/23/live.m3u8
 东南卫视,http://219.147.3.106:4455/newlive/live/hls/29/live.m3u8
-甘肃卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=171a8342304b3c81ad3c96545782987d838c6b9fb512cc6905270159a52113c2_1720508692_604800&fromCDN=ws
+甘肃卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
 广西卫视,http://222.84.98.48:4200/udp/239.81.0.107:4056
 贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8
 海南卫视,http://111.75.151.236:50085/newlive/live/hls/42/live.m3u8
