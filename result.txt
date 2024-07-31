@@ -65,7 +65,7 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 江西卫视,http://xxw.me0.cn/api/migu.php?id=26
 辽宁卫视,http://221.220.135.32:9999/rtp/239.3.1.210:8056
 内蒙古卫视,http://218.13.170.98:9901/tsfile/live/0109_1.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+宁夏卫视,http://218.13.170.98:9901/tsfile/live/0112_1.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 山东卫视,http://219.147.3.106:4455/newlive/live/hls/48/live.m3u8
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
