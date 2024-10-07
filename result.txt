@@ -7,7 +7,7 @@
 广东体育,http://113.100.72.95:8899/udp/239.77.0.112:5146
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东新闻,http://113.101.119.52:808/hls/106/index.m3u8
-广东卫视,http://124.94.193.136:9902/tsfile/live/0125_1.m3u8
+广东卫视,http://219.147.3.106:4455/newlive/live/hls/26/live.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
 鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
