@@ -86,7 +86,7 @@ ELEVEN体育,https://ktpremium.com:443/K3939/6757/910890
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
