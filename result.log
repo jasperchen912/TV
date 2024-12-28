@@ -1,4 +1,8 @@
-Name: 广州竞赛, URL: https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca, Date: None, Resolution: None, Response Time: 1935ms
-Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 668ms
-Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 201ms
-Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 27ms
+Name: 安徽卫视, URL: http://121.24.98.226:8090/hls/81/index.m3u8, Date: None, Resolution: None, Response Time: 512ms
+Name: 东南卫视, URL: http://121.24.98.226:8090/hls/36/index.m3u8, Date: None, Resolution: None, Response Time: 511ms
+Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 625ms
+Name: 河北卫视, URL: http://121.24.98.226:8090/hls/25/index.m3u8, Date: None, Resolution: None, Response Time: 511ms
+Name: 山西卫视, URL: http://121.24.98.226:8090/hls/35/index.m3u8, Date: None, Resolution: None, Response Time: 512ms
+Name: 新疆卫视, URL: http://121.24.98.226:8090/hls/61/index.m3u8, Date: None, Resolution: None, Response Time: 512ms
+Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 202ms
+Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 33ms
