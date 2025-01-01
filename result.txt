@@ -54,7 +54,7 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 重庆卫视,http://125.210.152.19:9123/live/hzgq-cqwsgq-h264.m3u8
 东方卫视,http://219.147.3.106:4455/newlive/live/hls/23/live.m3u8
 东南卫视,http://219.147.3.106:4455/newlive/live/hls/29/live.m3u8
-甘肃卫视,http://111.61.236.247:9081/hls/54/index.m3u8
+甘肃卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
 广西卫视,http://222.84.98.48:4200/udp/239.81.0.107:4056
 贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8
 海南卫视,http://111.75.151.236:50085/newlive/live/hls/42/live.m3u8
@@ -85,8 +85,8 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 ELEVEN体育,https://ktpremium.com:443/K3939/6757/910890
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
